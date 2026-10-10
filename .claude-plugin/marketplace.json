@@ -1,0 +1,7 @@
+{
+  "name": "suyeo-mods",
+  "owner": { "name": "suyeo" },
+  "plugins": [
+    { "name": "mini-bar", "description": "Minimal HUD: context bar above the prompt; model, git, cache countdown and 5h limit below it.", "version": "0.2.0", "source": "./mini-bar" }
+  ]
+}
